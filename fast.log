@@ -1,0 +1,25 @@
+06/18/2024-00:17:15.841803  [**] [1:30001:1] nytimes.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:34594 -> 151.101.129.164:80
+06/18/2024-00:17:15.900699  [**] [1:30002:1] cnn.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:33794 -> 151.101.131.5:80
+06/18/2024-00:17:15.966895  [**] [1:30003:1] bbc.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:46688 -> 151.101.192.81:80
+06/18/2024-00:17:16.034231  [**] [1:30004:1] forbes.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:60310 -> 151.101.66.49:80
+06/18/2024-00:17:16.265877  [**] [1:30005:1] washingtonpost.com access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:53620 -> 23.49.120.185:80
+06/18/2024-00:17:24.525217  [**] [1:30006:1] google.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:42904 -> 142.250.76.142:443
+06/18/2024-00:17:25.252356  [**] [1:30007:1] youtube.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:38306 -> 142.250.206.206:443
+06/18/2024-00:17:25.737942  [**] [1:30008:1] facebook.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:44842 -> 31.13.82.36:443
+06/18/2024-00:17:26.096696  [**] [1:30009:1] twitter.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:49900 -> 104.244.42.193:443
+06/18/2024-00:17:26.518402  [**] [1:30010:1] instagram.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:39124 -> 31.13.82.174:443
+06/18/2024-00:17:27.216264  [**] [1:30011:1] amazon.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:36864 -> 54.239.28.85:443
+06/18/2024-00:17:27.956539  [**] [1:30012:1] netflix.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:45562 -> 44.240.158.19:443
+06/18/2024-00:17:28.373455  [**] [1:30013:1] linkedin.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:40042 -> 13.107.42.14:443
+06/18/2024-00:17:28.701924  [**] [1:30014:1] whatsapp.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:47412 -> 31.13.82.51:443
+06/18/2024-00:17:29.304646  [**] [1:30015:1] yahoo.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:51830 -> 74.6.143.26:443
+06/18/2024-00:17:30.251921  [**] [1:30016:1] microsoft.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:34546 -> 20.231.239.246:443
+06/18/2024-00:17:30.796304  [**] [1:30017:1] reddit.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:56846 -> 151.101.193.140:443
+06/18/2024-00:17:30.985571  [**] [1:30018:1] ebay.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:33130 -> 23.193.119.207:443
+06/18/2024-00:17:31.574500  [**] [1:30019:1] wikipedia.org HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:57926 -> 103.102.166.224:443
+06/18/2024-00:17:31.850031  [**] [1:30020:1] pinterest.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:33164 -> 151.101.64.84:443
+06/18/2024-00:17:32.354331  [**] [1:30021:1] quora.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:46766 -> 52.204.144.156:443
+06/18/2024-00:17:32.830557  [**] [1:30022:1] apple.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:37040 -> 17.253.144.10:443
+06/18/2024-00:17:33.027668  [**] [1:30023:1] paypal.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:42124 -> 151.101.129.21:443
+06/18/2024-00:17:33.474797  [**] [1:30024:1] adobe.com HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:40294 -> 23.33.33.195:443
+06/18/2024-00:17:33.849505  [**] [1:30025:1] zoom.us HTTPS access [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.163.128:58258 -> 170.114.52.2:443
